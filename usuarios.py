@@ -56,4 +56,4 @@ while True:
     elif menu == "4":
         break
     else:
-        print("opcio no valida. INTENTE DE NUEVO")
+        print("opcion no valida. INTENTE DE NUEVO")
